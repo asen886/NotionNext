@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到阿森的博客', url: 'https://notion-next-amber-xi.vercel.app/' },
-    { title: '访问文档中心获取更多帮助', url: 'https://notion-next-amber-xi.vercel.app/' }
+    { title: '欢迎来到阿森的博客', url: 'https://asen8.vercel.app/' },
+    { title: '访问文档中心获取更多帮助', url: 'https://asen8.vercel.app/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
